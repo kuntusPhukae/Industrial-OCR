@@ -1,0 +1,23 @@
+# Industrial OCR Application Requirements
+# GUI Framework
+PyQt5>=5.15.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# OCR Engine
+easyocr>=1.7.0
+
+# Additional dependencies for EasyOCR (these might be installed automatically with easyocr)
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.0.0
+
+# For configuration management (built-in with Python, but listing for clarity)
+# configparser - built-in module
+
+# System modules used (built-in with Python)
+# sys - built-in module
+# os - built-in module
+# datetime - built-in module
